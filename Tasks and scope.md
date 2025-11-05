@@ -12,6 +12,7 @@ Deletar card
 
 V2:
 Acessos
+REDIS
 
 SQL:
 
